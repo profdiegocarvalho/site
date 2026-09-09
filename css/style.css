@@ -1,0 +1,36 @@
+body{
+    background-image: url(../image/fundo.jpg);
+    background-repeat: repeat;
+}
+header{
+    width: 1000px;
+    height: 300px;
+    margin: 0 auto;
+    background-color: bisque;
+}
+ul, li{
+    float: left;
+    text-align: center;
+    list-style-type: none;
+}
+li{
+    padding: 25px;
+}
+nav{
+    width: 1000px;
+    height: 120px;
+    margin: 0 auto;
+    background-color: aquamarine;
+}
+main{
+    width: 1000px;
+    height: 800px;
+    margin: 0 auto;
+    background-color: ghostwhite;
+}
+footer{
+    width: 1000px;
+    height: 70px;
+    margin: 0 auto;
+    background-color: chartreuse;
+}
